@@ -1,2 +1,2 @@
-# bethandnoah
-RSVP Website for my wedding
+# Beth and Noah's Wedding RSVP Website!
+Woohoo!
